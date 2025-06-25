@@ -36,7 +36,11 @@ Something here
 ---
 
 ## 📐 Math & Statistics for AI
-Something here
+
+| Title                                     | Content Type        | Link                                                                                  |
+|------------------------------------------------------|-----------------------|---------------------------------------------------------------------------------------|
+| Statistics for Data Science (Free Code Camp) | Video Course  | [Link](https://www.youtube.com/watch?v=xxpc-HPKN28)                                   |
+
 ---
 
 ## 🦿 Robotics
