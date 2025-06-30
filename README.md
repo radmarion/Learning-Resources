@@ -21,7 +21,6 @@ Whether you're just starting or diving deep, this hub has something for you.
 4. [🦿 Robotics](#-robotics)
 5. [⛓️ Blockchain](#-blockchain)
 6. [💡 How to Contribute](#-how-to-contribute)
-7. [👥 Lab Community & Contacts](#-lab-community--contacts)
 
 ---
 
@@ -54,7 +53,7 @@ Something here
 Something here
 ---
 
-## ⛓️ Web3 x Blockchain
+## ⛓️ Blockchain
 
 | Title | Content Type | Link | Description | Level |
 |-------|--------------|------|-------------|-------|
