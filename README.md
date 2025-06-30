@@ -19,7 +19,7 @@ Whether you're just starting or diving deep, this hub has something for you.
 2. [🧠 Artificial Intelligence & Machine Learning](#-artificial-intelligence--machine-learning)
 3. [📐 Math & Statistics for AI](#-math--statistics-for-ai)
 4. [🦿 Robotics](#-robotics)
-5. [⛓️ Blockchain](#-blockchain)
+5. [⛓️ Blockchain](#blockchain)
 6. [💡 How to Contribute](#-how-to-contribute)
 
 ---
