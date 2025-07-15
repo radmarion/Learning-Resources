@@ -24,7 +24,7 @@ Whether you're just starting or diving deep, this hub has something for you.
 
 ---
 
-## 📊 Data Science
+## 📊 Data Science & Machine Learning
 
 | Title                                     | Content Type        | Link                                                                                  | Description |
 |------------------------------------------------------|-----------------------|---------------------------------------------------------------------------------------| -------------------------------------------------------------------|
@@ -40,8 +40,20 @@ Whether you're just starting or diving deep, this hub has something for you.
 
 ---
 
-## 🧠 Artificial Intelligence & Machine Learning
-Something here
+## 🧠 Artificial Intelligence
+
+| Title                                     | Content Type        | Link                                                                                  | Description |
+|------------------------------------------------------|-----------------------|---------------------------------------------------------------------------------------| -------------------------------------------------------------------|
+| Computer Vision | Course | [Link](https://opencv.org/university/free-courses/) | Free OpenCV courses covering computer vision fundamentals and practical applications |
+| Natural Language Processing | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX&si=B9SwVEkQDC5s_1ox) | Comprehensive NLP playlist covering text processing, language models, and applications |
+| LLM Using LangChain | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F&si=zHywqS40_m0Nhoh6) | Tutorial series on building applications with Large Language Models using LangChain framework |
+| LLMs Playlist | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F&si=zHywqS40_m0Nhoh6) | Complete playlist covering Large Language Models theory and implementation |
+| LLMs From Scratch | YouTube Video | [Link](https://youtu.be/UU1WVnMk4E8?si=hpQwucs8ImM4VBWb) | FreeCodeCamp tutorial on building Large Language Models from scratch |
+| Agentic AI with Python | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLeo1K3hjS3utjalsQ32f6fYcLkWvf3-rA&si=TbG0TeLGR0a5VGOy) | Python-focused playlist on building AI agents and autonomous systems |
+| Agentic AI Course | Course | [Link](https://huggingface.co/learn/agents-course/en/unit0/introduction) | Hugging Face course on building AI agents and multi-agent systems |
+| VLM Course Introduction | Course | [Link](https://huggingface.co/learn/computer-vision-course/en/unit4/multimodal-models/vlm-intro) | Introduction to Vision Language Models (VLM) for multimodal AI applications |
+| MCP Playlist | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLrLEqwuz-mRKxFJJWulYDvl-gt61oKxf0&si=33joYDBjk-bjW3E9) | Model Context Protocol (MCP) tutorial series for AI integration |
+| AI Fundamentals Course | Course | [Link](https://app.datacamp.com/learn/skill-tracks/ai-fundamentals) | DataCamp's comprehensive AI fundamentals course covering core concepts and applications |
 
 ---
 
