@@ -24,13 +24,36 @@ Whether you're just starting or diving deep, this hub has something for you.
 
 ---
 
-## 📊 Data Science
-Something here
+## 📊 Data Science & Machine Learning
+
+| Title                                     | Content Type        | Link                                                                                  | Description |
+|------------------------------------------------------|-----------------------|---------------------------------------------------------------------------------------| -------------------------------------------------------------------|
+| Data Science Course | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV&si=kfUrwkWIlRm7C4eC) | A comprehensive Data Science course by CodeBasics covering fundamental concepts and practical applications |
+| Python Programming | YouTube Playlist | [Link](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&si=1QXLfFlVJ_81gj9v) | Complete Python programming tutorial series covering basics to advanced concepts |
+| Deep Learning with TensorFlow | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&si=pmvNZebby9D2FMBj) | Deep Learning tutorial series using TensorFlow framework for practical ML applications |
+| Deep Learning with PyTorch | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&si=DjCAKsd9kQ1wBRmE) | Deep Learning course focusing on PyTorch framework for neural network development |
+| MLOps by DeepLearningAI | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK&si=ZaGf9IlE5su-qauu) | MLOps fundamentals and best practices for deploying machine learning models in production |
+| MLOps ZoomCamp '24 | YouTube Playlist | [Link](https://youtube.com/playlist?list=PL3MmuxUbc_hJD0AVR2Un_GSVGMpotGM2t&si=t8hkgyVE76i1Yen-) | Comprehensive MLOps bootcamp covering the entire ML operations pipeline |
+| MLOps Course | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLupK5DK91flV45dkPXyGViMLtHadRr6sp&si=6Wp2MvL1S97K-Pbu) | Complete MLOps course covering model deployment, monitoring, and maintenance |
+| Python Project for Data Science | Course | [Link](https://www.coursera.org/learn/python-project-for-data-science) | Hands-on Coursera course focusing on practical Python applications in Data Science projects |
+| Deep Learning Course | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&si=yNBFFjF2To9wg67L) | Comprehensive Deep Learning course covering neural networks and advanced ML concepts |
 
 ---
 
-## 🧠 Artificial Intelligence & Machine Learning
-Something here
+## 🧠 Artificial Intelligence
+
+| Title                                     | Content Type        | Link                                                                                  | Description |
+|------------------------------------------------------|-----------------------|---------------------------------------------------------------------------------------| -------------------------------------------------------------------|
+| Computer Vision | Course | [Link](https://opencv.org/university/free-courses/) | Free OpenCV courses covering computer vision fundamentals and practical applications |
+| Natural Language Processing | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX&si=B9SwVEkQDC5s_1ox) | Comprehensive NLP playlist covering text processing, language models, and applications |
+| LLM Using LangChain | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F&si=zHywqS40_m0Nhoh6) | Tutorial series on building applications with Large Language Models using LangChain framework |
+| LLMs Playlist | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F&si=zHywqS40_m0Nhoh6) | Complete playlist covering Large Language Models theory and implementation |
+| LLMs From Scratch | YouTube Video | [Link](https://youtu.be/UU1WVnMk4E8?si=hpQwucs8ImM4VBWb) | FreeCodeCamp tutorial on building Large Language Models from scratch |
+| Agentic AI with Python | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLeo1K3hjS3utjalsQ32f6fYcLkWvf3-rA&si=TbG0TeLGR0a5VGOy) | Python-focused playlist on building AI agents and autonomous systems |
+| Agentic AI Course | Course | [Link](https://huggingface.co/learn/agents-course/en/unit0/introduction) | Hugging Face course on building AI agents and multi-agent systems |
+| VLM Course Introduction | Course | [Link](https://huggingface.co/learn/computer-vision-course/en/unit4/multimodal-models/vlm-intro) | Introduction to Vision Language Models (VLM) for multimodal AI applications |
+| MCP Playlist | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLrLEqwuz-mRKxFJJWulYDvl-gt61oKxf0&si=33joYDBjk-bjW3E9) | Model Context Protocol (MCP) tutorial series for AI integration |
+| AI Fundamentals Course | Course | [Link](https://app.datacamp.com/learn/skill-tracks/ai-fundamentals) | DataCamp's comprehensive AI fundamentals course covering core concepts and applications |
 
 ---
 
