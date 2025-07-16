@@ -1,7 +1,7 @@
 # 🤖 AI and Robotics Lab (Unilag) Resource Hub
 
 Welcome to the official resource center of the AI and Robotics Lab!  
-This repository curates high-quality resources for students, researchers, and enthusiasts interested in:
+This repository curates high-quality free resources for students, researchers, and enthusiasts interested in:
 
 - 📊 Data Science
 - 🤖 Artificial Intelligence & Machine Learning
