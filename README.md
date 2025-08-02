@@ -37,6 +37,7 @@ Whether you're just starting or diving deep, this hub has something for you.
 | MLOps Course | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLupK5DK91flV45dkPXyGViMLtHadRr6sp&si=6Wp2MvL1S97K-Pbu) | Complete MLOps course covering model deployment, monitoring, and maintenance |
 | Python Project for Data Science | Course | [Link](https://www.coursera.org/learn/python-project-for-data-science) | Hands-on Coursera course focusing on practical Python applications in Data Science projects |
 | Deep Learning Course | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&si=yNBFFjF2To9wg67L) | Comprehensive Deep Learning course covering neural networks and advanced ML concepts |
+| Machine Learning | Course | [Link](https://see.stanford.edu/Course/CS229) | Free stanfrond course on Machine Learning by Andrew Ng , simi;ar to the one on coursera
 
 ---
 
@@ -86,6 +87,9 @@ Whether you're just starting or diving deep, this hub has something for you.
 | Introduction to Autonomous Robots                 | Textbook (PDF)        | [Link](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/releases/latest)                        | Open-access book covering the core concepts of autonomous mobile robotics including mapping, localization, and sensors                                    |
 | A Gentle Introduction to ROS                      | Book (PDF)            | [Link](http://jokane.net/agitr/)                                                                                                      | A beginner’s guide to the Robot Operating System (ROS), explaining its basic concepts and how to build and launch simple robot nodes                      |
 | Gazebo Simulator Tutorials                        | Interactive Tutorials | [Link](https://classic.gazebosim.org/tutorials)                                                                                       | Official Gazebo tutorials guiding users through simulation setup, robot modeling, sensors, and ROS integration                                            |
+| Introduction to Robotics (Stanford)               | Course                | [Link](https://see.stanford.edu/Course/CS223A)                                 
+| A mathematical and electronics heavy approach to Introduction to Robotics                                                                                 |
+
 
 ---
 
