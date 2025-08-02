@@ -87,8 +87,7 @@ Whether you're just starting or diving deep, this hub has something for you.
 | Introduction to Autonomous Robots                 | Textbook (PDF)        | [Link](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/releases/latest)                        | Open-access book covering the core concepts of autonomous mobile robotics including mapping, localization, and sensors                                    |
 | A Gentle Introduction to ROS                      | Book (PDF)            | [Link](http://jokane.net/agitr/)                                                                                                      | A beginner’s guide to the Robot Operating System (ROS), explaining its basic concepts and how to build and launch simple robot nodes                      |
 | Gazebo Simulator Tutorials                        | Interactive Tutorials | [Link](https://classic.gazebosim.org/tutorials)                                                                                       | Official Gazebo tutorials guiding users through simulation setup, robot modeling, sensors, and ROS integration                                            |
-| Introduction to Robotics (Stanford)               | Course                | [Link](https://see.stanford.edu/Course/CS223A)                                 
-| A mathematical and electronics heavy approach to Introduction to Robotics                                                                                 |
+| Introduction to Robotics (Stanford)               | Course                | [Link](https://see.stanford.edu/Course/CS223A) | A mathematical and electronics heavy approach to Introduction to Robotics|                                                                                 |
 
 
 ---
